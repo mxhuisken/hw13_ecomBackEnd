@@ -20,6 +20,8 @@
 
 ## Usage 🖥
 
+A manager at an internet retail company wants a back end for their e-commerce website that uses the latest technologies so that their company can compete with other e-commerce companies. 
+
 ## Credits 📑
 
 ## License 📍
@@ -28,4 +30,4 @@
 
 **[GitHub Link ✨](https://github.com/mxhuisken/hw13_ecomBackEnd)**
 
-**[Deployed Link ✨](X)**
+**[Demo ✨](X)**
