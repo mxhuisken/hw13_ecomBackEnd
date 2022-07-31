@@ -14,7 +14,7 @@ Back end for an e-commerce brand that works with express.js API to use Sequelize
 
 ## Preview 📸
 
-![Visual](./assets/)
+![Visual](./assets/ecomPreview.gif)
 
 ## Installation 🔐
 
@@ -33,4 +33,4 @@ A manager at an internet retail company wants a back end for their e-commerce we
 
 **[GitHub Link ✨](https://github.com/mxhuisken/hw13_ecomBackEnd)**
 
-**[Demo ✨](X)**
+**[Demo ✨](https://youtu.be/QuGs-tEwM_U)**
