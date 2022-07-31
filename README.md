@@ -6,25 +6,28 @@
 - [Preview](#preview)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
 - [Links](#links)
 
 ## Description 📋
 
+Back end for an e-commerce brand that works with express.js API to use Sequelize to interact with a MySQL database.
+
 ## Preview 📸
 
-![Visual](./assets/images/porti.gif)
+![Visual](./assets/)
 
 ## Installation 🔐
+
+- Clone the repository into your system
+- Create .env file and set up your DB NAME, USER AND PASSWORD
+- Run npm i
+- Load schema.sql via command line or through MAMP & Sequel Pro
+- Run npm seed
+- Run node server.js
 
 ## Usage 🖥
 
 A manager at an internet retail company wants a back end for their e-commerce website that uses the latest technologies so that their company can compete with other e-commerce companies. 
-
-## Credits 📑
-
-## License 📍
 
 ## Links 💾
 
